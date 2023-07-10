@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "comerciobr-d-e-projec",
+  "private_key_id": "e1ba53f8f9199e*****************",
+  "private_key": "-----BEGIN PRIVATE KEY-----*****-----END PRIVATE KEY-----\n",
+  "client_email": "eng-dados-comerciobr",
+  "client_id": "*******918267442921",
+  "auth_uri": "https://accounts.google.com/o*****",
+  "token_uri": "https://oauth2.*********",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com************",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/*509/proj-eng-dados-comerciobr******",
+  "universe_domain": "googleapis.com"
+}
