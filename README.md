@@ -7,7 +7,7 @@ Criando um cenário do mundo 'real' coleto os Dados do orgão Federal e disponib
 
 Utilizando o Streamlit entrego de forma 'opensource' alguns resumos em Dashboard afim de serem utilizados por tomadores de decisão. 
 
-<img src="eng-dados-comerciobr.png">
+<img src="comerciobr.png">
 
 ## Computação em Nuvem 
 > <a href="https://console.cloud.google.com/">Google Cloud Platform(Cloud Storage, Compute Engine, BigQuery)</a>
@@ -34,7 +34,7 @@ Dados compartilhados pelo <a href="https://www.gov.br/produtividade-e-comercio-e
 <img src="modelo-de-dados-comerciobr.png">
 
 ## Arquitetura
-<img src="arquitetura.png">
+<img src="arquitetura-comerciobr.png">
 
 ## ETL Mage
 <img src="etl_comerciobr_exp22.png">
