@@ -24,9 +24,6 @@ Utilizando o Streamlit entrego de forma 'opensource' alguns resumos em Dashboard
 ## Ferramenta para ETL
 > <a href="https://www.mage.ai/">Mage Data Pipeline Tool</a>
 
- ## Visualização
-> <a href="https://streamlit.io/">Streamlit</a>
-
 ## Conjunto de Dados Utilizado
 Dados compartilhados pelo <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta">Ministério da Economia.</a>
 
