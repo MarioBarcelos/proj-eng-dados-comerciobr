@@ -5,8 +5,6 @@
 ## Intrudução
 Criando um cenário do mundo 'real' coleto os Dados do orgão Federal e disponibilizo no Google Storage, ativo as tecnologias do Google Engine e crio uma 'VM' afim de obter melhor performace, configurado o ambiente de produção executo o de ETL, estraindo os Dados do Google Storage e Transformando utilizando a Linguagme de Progamação Python, de forma independente carrego as Informações utilizando o Google BigQuery, entregando no final  6 'Tabelas' formatadas prontas para geração de Dashboard.
 
-Utilizando o Streamlit entrego de forma 'opensource' alguns resumos em Dashboard afim de serem utilizados por tomadores de decisão. 
-
 <img src="comerciobr.png">
 
 ## Computação em Nuvem 
