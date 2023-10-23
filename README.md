@@ -3,7 +3,7 @@
 > Dando continuidade as atividades de Análise de Dados do Setor Público Brasileiro, crio este projeto ligado a Engenharia de Dados.
 
 ## Intrudução
-Criando um cenário do mundo 'real' coleto os Dados do orgão Federal e disponibilizo no Google Storage, ativo as tecnologias do Google Engine e crio uma 'VM' afim de obter melhor performace, configurado o ambiente de produção executo o de ETL, estraindo os Dados do Google Storage e Transformando utilizando a Linguagme de Progamação Python, de forma independente carrego as Informações utilizando o Google BigQuery, entregando no final  6 'Tabelas' formatadas prontas para geração de Dashboard.
+Tendo como ponto de partida tecnologias do Google Engine, realizo atividades de ingestão de dados com a ferramenta Mage  e disponibilizo-as no Google Storage, em seguida, crio uma modelagem de dados via Python a fim de normalizar e disponibilizar, de forma independente, as Informações no Google BigQuery e acessa-las via SQL ou criações de Dashboards analíticos. 
 
 <img src="comerciobr.png">
 
